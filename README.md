@@ -1,6 +1,13 @@
 ### Hi there 👋
-I'm Guanlan, Site Lead of China @<a href="https://konghq.com/">Kong</a>, formerly @<a href="https://www.cloudflare.com">Cloudflare</a>. I'm particularly interested in Distributed Systems, Web Performance and Scalability, Data, Artificial Intelligence and Network Security. Feel free to check out my work.
+I'm Guanlan, Site Lead of China @<a href="https://konghq.com/">Kong</a>, formerly @<a href="https://www.cloudflare.com">Cloudflare</a>. I'm particularly interested in Distributed Systems, Web Performance and Scalability, Data, Artificial Intelligence and Network Security. 
 
+<details>
+
+<summary>My GitHub Stats</summary>
+
+![Guanlan's github stats](https://github-readme-stats.vercel.app/api?username=guanlan&theme=vue&show_icons=true)
+
+</details>
 <!--
 **guanlan/guanlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
