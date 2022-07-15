@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Guanlan, Site Lead of China @<a href="https://konghq.com/">Kong</a>, formerly @<a href="https://www.cloudflare.com">Cloudflare</a>. I'm particularly interested in Distributed Systems, Web Performance and Scalability, Data, Artificial Intelligence and Network Security. 
+I'm Guanlan, Site Lead of China @<a href="https://konghq.com/">Kong</a>, formerly @<a href="https://www.cloudflare.com">Cloudflare</a>. I'm particularly interested in Distributed Systems, Performance and Scalability, Data and AI/MLOps. 
 
 <details>
 
