@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Guanlan, Site Lead of @<a href="https://konghq.com/">Kong China</a>, Director of Engineering (Kong Runtimes, Gateway, Mesh and KIC), formerly @<a href="https://www.cloudflare.com">Cloudflare</a>. 
-My area of interest: Distributed Systems, Performance, Scalability, and AI. 
+My area of interest: Distributed systems, networks, and scaling resilient infrastructure. 
 
 
 <!--
