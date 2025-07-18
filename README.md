@@ -1,7 +1,11 @@
 ### Hi there 👋
-I'm Guanlan, Site Lead of @<a href="https://konghq.com/">Kong China</a>, Director of Engineering (Kong Runtimes, Gateway, Mesh and KIC), formerly @<a href="https://www.cloudflare.com">Cloudflare</a>. 
-My area of interest: Distributed systems, networks, and scaling resilient infrastructure. 
+I'm Guanlan, currently serve as Site Lead of China at <a href="https://konghq.com/">Kong</a> and Director of Engineering (Kong Runtimes, Gateway, Mesh and KIC).
 
+As the founding engineering leader, I’ve helped evolve Kong from an open-source API gateway into a full-stack microservices platform — bridging open-source traction with enterprise adoption. I built Kong’s Shanghai engineering hub from the ground up, scaling it to a 50+ ppl team now driving innovation in API management and AI infrastructure for 700+ enterprise customers.
+
+Before Kong, I led edge engineering at <a href="https://www.cloudflare.com">Cloudflare</a>, where I helped scale systems serving trillions of daily requests across CDN, WAF, and DDoS products.
+
+Talk to me about distributed systems, resilient infra, and network scaling — the good stuff.
 
 <!--
 **guanlan/guanlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
