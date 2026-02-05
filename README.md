@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm Guanlan, currently serve as Site Lead of China at <a href="https://konghq.com/">Kong</a> and Director of Engineering (Kong Runtimes, Gateway, Mesh and KIC).
+Exploring something new.
+
+Previously serve as Site Lead at <a href="https://konghq.com/">Kong</a> and Director of Engineering (Kong Runtimes, Gateway, Mesh and KIC).
 
 As the founding engineering leader, I’ve helped evolve Kong from an open-source API gateway into a full-stack microservices platform — bridging open-source traction with enterprise adoption. I built Kong’s Shanghai engineering hub from the ground up, scaling it to a 50+ ppl team now driving innovation in API management and AI infrastructure for 700+ enterprise customers.
 
