@@ -1,13 +1,12 @@
-### Hi there 👋
-Exploring something new.
+### Hi, I'm Guanlan
 
-Previously serve as Site Lead at <a href="https://konghq.com/">Kong</a> and Director of Engineering (Kong Runtimes, Gateway, Mesh and KIC).
+Building infrastructure for long-horizon AI agents.
 
-As the founding engineering leader, I’ve helped evolve Kong from an open-source API gateway into a full-stack microservices platform — bridging open-source traction with enterprise adoption. I built Kong’s Shanghai engineering hub from the ground up, scaling it to a 60+ ppl team, driving innovation in API management and AI infrastructure for 700+ enterprise customers.
+Previously, I helped grow <a href="https://konghq.com/">Kong</a> from an open-source API gateway into a broader API and AI infrastructure platform, and built its overseas engineering organization into a 60+ engineer team serving 700+ enterprise customers and supporting a business with over $100M in ARR.
 
-Before Kong, I led edge engineering at <a href="https://www.cloudflare.com">Cloudflare</a>, where I helped scale systems serving trillions of daily requests across CDN, WAF, and DDoS products.
+Before that, I was the fourth engineer and Tech Lead on <a href="https://www.cloudflare.com">Cloudflare</a>'s Edge team, helping scale CDN, WAF, and Front Line systems that served trillions of requests per day. I was also a major contributor to OpenResty.
 
-Talk to me about distributed systems, resilient infra, and network scaling — the good stuff.
+Interested in distributed systems, resilient infrastructure, and the execution layer for reliable AI agents.
 
 <!--
 **guanlan/guanlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
