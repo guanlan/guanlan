@@ -1,12 +1,12 @@
 ### Hi, I'm Guanlan
 
-Building infrastructure for long-horizon AI agents.
+Building infrastructure for production AI agents.
 
-Previously, I helped grow <a href="https://konghq.com/">Kong</a> from an open-source API gateway into a broader API and AI infrastructure platform, and built its overseas engineering organization into a 60+ engineer team serving 700+ enterprise customers and supporting a business with over $100M in ARR.
+Previously, I was the founding engineering manager for Kong Gateway, where I helped grow Kong from an open-source API gateway into a broader API and AI infrastructure platform. I built and led a 60+ person distributed engineering organization working on gateways, Kubernetes, developer tools, and AI infrastructure.
 
-Before that, I was the fourth engineer and Tech Lead on <a href="https://www.cloudflare.com">Cloudflare</a>'s Edge team, helping scale CDN, WAF, and Front Line systems that served trillions of requests per day. I was also a major contributor to OpenResty.
+Before Kong, I was the #4 engineer and Tech Lead on Cloudflare’s Edge team, helping scale CDN, WAF, and Edge Proxy systems that served trillions of requests per day. I was also a major contributor to OpenResty.
 
-Interested in distributed systems, resilient infrastructure, and the execution layer for reliable AI agents.
+I’m interested in distributed systems, resilient infrastructure, and the execution layer for reliable AI agents.
 
 <!--
 **guanlan/guanlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
