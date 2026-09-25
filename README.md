@@ -1,6 +1,6 @@
 ### Hi, I'm Guanlan
 
-Building infrastructure for production AI agents.
+Building infrastructure for production AI agents at [Runta](https://runta.com/).
 
 Previously, I was the founding engineering manager for Kong Gateway, where I helped grow Kong from an open-source API gateway into a broader API and AI infrastructure platform. I built and led a 60+ person distributed engineering organization working on gateways, Kubernetes, developer tools, and AI infrastructure.
 
